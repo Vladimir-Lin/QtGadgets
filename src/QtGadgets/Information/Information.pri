@@ -1,0 +1,9 @@
+SOURCES += $$PWD/nPaperSize.cpp
+SOURCES += $$PWD/nPaper.cpp
+SOURCES += $$PWD/nPaperOptions.cpp
+SOURCES += $$PWD/nPictureOptions.cpp
+SOURCES += $$PWD/nScreen.cpp
+SOURCES += $$PWD/nRasterOptions.cpp
+SOURCES += $$PWD/nDockInformation.cpp
+SOURCES += $$PWD/nWidgetInformation.cpp
+SOURCES += $${PWD}/nMachineProfiler.cpp

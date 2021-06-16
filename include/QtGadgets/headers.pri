@@ -1,0 +1,5 @@
+SYNCQT.HEADER_FILES = ../../include/QtGadgets/qtgadgets.h
+SYNCQT.HEADER_CLASSES = ../../include/QtGadgets/QtGadgets
+SYNCQT.PRIVATE_HEADER_FILES =
+SYNCQT.QPA_HEADER_FILES = 
+SYNCQT.INJECTIONS = 
